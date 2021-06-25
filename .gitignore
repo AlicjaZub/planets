@@ -1,0 +1,5 @@
+node_modules/
+.DS_*
+.idea
+app/js/dist
+app/css
